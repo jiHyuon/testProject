@@ -14,8 +14,6 @@ public class test {
         int num = (int)size;
 
         answer = levels[length-num];
-
-
         return answer;
     }
 
