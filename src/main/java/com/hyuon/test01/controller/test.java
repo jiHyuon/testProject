@@ -13,6 +13,10 @@ public class test {
         double size = length*0.25;
         int num = (int)size;
 
+        int num2 = 10;
+        for(int i = 0; i<num2 ; i++){
+        }
+
         answer = levels[length-num];
         return answer;
     }
